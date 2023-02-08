@@ -2,7 +2,7 @@
  A Modern Take on Time Tracking with Facial Recognition
  
  # Flow Chart of project:- 
- ![image](https://user-images.githubusercontent.com/84168199/217492481-884ace20-9c93-442d-9cea-04e557d32edc.png)
+ ![image](https://user-images.githubusercontent.com/84168199/217493850-6bb1e0f1-4628-4d66-92bd-920f83a16b91.png)
  
  # Module of the project:- 
  ![Uploading image.png…]()
